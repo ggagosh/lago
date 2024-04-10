@@ -1,5 +1,3 @@
-version: "3.9"
-
 volumes:
   lago_postgres_data:
   lago_redis_data:
